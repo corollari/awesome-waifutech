@@ -8,4 +8,6 @@
 
 ## AI
 - [waifu2x: Waifu Upscaling using GANs](https://github.com/nagadomi/waifu2x)
+
+## Other
 - [Moe Serifu Agent: Anime-themed personal assistant](https://github.com/moe-serifu-circle/moe-serifu-agent)
