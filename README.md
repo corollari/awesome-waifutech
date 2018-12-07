@@ -8,6 +8,7 @@
 
 ## AI
 - [waifu2x: Waifu Upscaling using GANs](https://github.com/nagadomi/waifu2x)
+- [Towards the Automatic Anime Characters Creation with Generative Adversarial Networks: Paper on generating waifu pictures](https://arxiv.org/abs/1708.05509)
 
 ## Other
 - [Moe Serifu Agent: Anime-themed personal assistant](https://github.com/moe-serifu-circle/moe-serifu-agent)
