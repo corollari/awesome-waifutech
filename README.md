@@ -13,3 +13,5 @@
 
 ## Other
 - [Moe Serifu Agent: Anime-themed personal assistant](https://github.com/moe-serifu-circle/moe-serifu-agent)
+
+> **Disclaimer**: The owner of this repo, @corollari, is part of the team that released the MyWaifuList Dataset
